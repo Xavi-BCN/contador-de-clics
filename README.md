@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 Outside the project directory, you can run:
-### `npx create-react-app name-porject`
+### `npx create-react-app name-project`
 Will be create folder and local repositry
 
 In the project directory, you can run:
